@@ -4,7 +4,7 @@ var { Link, IndexLink } = require('react-router');
 var Nav = (props) => {
   return (
     <div className="top-bar">
-        <div className="top-bar-lef">
+        <div className="top-bar-left">
           <ul className="menu">
             <li className="menu-text">
               React Timer App
