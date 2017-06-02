@@ -8,7 +8,7 @@ var CountdownForm = require('CountdownForm');
 
 describe('CountdownForm' , () => {
 
-  it('sould exist', () => {
+  it('should exist', () => {
     expect(CountdownForm).toExist();
   })
 
