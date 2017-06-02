@@ -29,6 +29,6 @@ describe('Countdown', () => {
           done();
         }, 10001)
     })
-  })
+  });
 
 }); // end main describe
