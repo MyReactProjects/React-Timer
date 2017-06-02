@@ -1,6 +1,8 @@
 # React Timer
 
-Hello! This is a simple react web app that plays with time.
+Hello! This is a simple react web app that gives you a countdown feature and a timer feature.
+
+(Live Demo)[http://jude2go-timer.herokuapp.com/#/countdown?_k=i5nrlc]
 
 ## Get Started
 
